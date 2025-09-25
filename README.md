@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Sobre mí<br><br>🖥️​ Titulación de grado medio en sistemas microinformáticos y redes<br>​👨‍🎓​ Estudiante de informática en Grado superior de sistemas informáticos y redes
+🖥️​ Titulación de grado medio en sistemas microinformáticos y redes<br>​👨‍🎓​ Estudiante de informática en Grado superior de sistemas informáticos y redes
 
 
 ## 🌐 Social:
