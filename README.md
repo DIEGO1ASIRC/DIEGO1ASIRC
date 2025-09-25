@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Sobre mí<br><br>🖥️​ Titulación de grado medio en sistemas microinformáticos y redes<br>​👨‍🎓​ Estudiante de informática en Grado superior de sistemas informáticos y redes
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dtorper363@ieszaidinvergeles.org) 
 
 # 💻 Tech Stack:
